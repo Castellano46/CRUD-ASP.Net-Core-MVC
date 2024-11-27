@@ -1,0 +1,11 @@
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\bin\Debug\net8.0\ProyectoCrud.BLL.deps.json
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\bin\Debug\net8.0\ProyectoCrud.BLL.dll
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\bin\Debug\net8.0\ProyectoCrud.BLL.pdb
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ProyectoCrud.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ProyectoCrud.BLL.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ProyectoCrud.BLL.AssemblyInfo.cs
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ProyectoCrud.BLL.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ProyectoCrud.BLL.dll
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\refint\ProyectoCrud.BLL.dll
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ProyectoCrud.BLL.pdb
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ref\ProyectoCrud.BLL.dll
