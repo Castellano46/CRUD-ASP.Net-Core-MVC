@@ -9,3 +9,7 @@ C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.DAL\obj\Debug\net8.0\ProyectoCr
 C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.DAL\obj\Debug\net8.0\refint\ProyectoCrud.DAL.dll
 C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.DAL\obj\Debug\net8.0\ProyectoCrud.DAL.pdb
 C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.DAL\obj\Debug\net8.0\ref\ProyectoCrud.DAL.dll
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.DAL\bin\Debug\net8.0\ProyectoCrud.DAL.runtimeconfig.json
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.DAL\obj\Debug\net8.0\ProyectoCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.DAL\obj\Debug\net8.0\ProyectoCrud.DAL.sourcelink.json
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.DAL\obj\Debug\net8.0\ProyectoCrud.DAL.genruntimeconfig.cache
