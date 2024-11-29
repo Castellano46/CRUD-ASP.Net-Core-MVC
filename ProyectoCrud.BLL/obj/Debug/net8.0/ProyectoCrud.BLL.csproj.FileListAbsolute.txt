@@ -9,3 +9,10 @@ C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ProyectoCr
 C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\refint\ProyectoCrud.BLL.dll
 C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ProyectoCrud.BLL.pdb
 C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ref\ProyectoCrud.BLL.dll
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\bin\Debug\net8.0\ProyectoCrud.DAL.dll
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\bin\Debug\net8.0\ProyectoCrud.Models.dll
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\bin\Debug\net8.0\ProyectoCrud.DAL.pdb
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\bin\Debug\net8.0\ProyectoCrud.Models.pdb
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ProyectoCrud.BLL.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\ProyectoCrud.BLL.sourcelink.json
+C:\Users\pedro\Desktop\SolutionCrud\ProyectoCrud.BLL\obj\Debug\net8.0\Proyecto.FAB6190C.Up2Date

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7EFC727-58E5-4794-A5AF-B80BA8C39805}|ProyectoCrud.BLL\\ProyectoCrud.BLL.csproj|c:\\users\\pedro\\desktop\\solutioncrud\\proyectocrud.bll\\service\\contactoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7EFC727-58E5-4794-A5AF-B80BA8C39805}|ProyectoCrud.BLL\\ProyectoCrud.BLL.csproj|solutionrelative:proyectocrud.bll\\service\\contactoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3409EB83-61B9-4784-9210-2788B1A77C84}|ProyectoCrud.AplicacionWeb\\ProyectoCrud.AplicacionWeb.csproj|c:\\users\\pedro\\desktop\\solutioncrud\\proyectocrud.aplicacionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3409EB83-61B9-4784-9210-2788B1A77C84}|ProyectoCrud.AplicacionWeb\\ProyectoCrud.AplicacionWeb.csproj|solutionrelative:proyectocrud.aplicacionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EFC727-58E5-4794-A5AF-B80BA8C39805}|ProyectoCrud.BLL\\ProyectoCrud.BLL.csproj|c:\\users\\pedro\\desktop\\solutioncrud\\proyectocrud.bll\\service\\icontactoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7EFC727-58E5-4794-A5AF-B80BA8C39805}|ProyectoCrud.BLL\\ProyectoCrud.BLL.csproj|solutionrelative:proyectocrud.bll\\service\\icontactoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3409EB83-61B9-4784-9210-2788B1A77C84}|ProyectoCrud.AplicacionWeb\\ProyectoCrud.AplicacionWeb.csproj|c:\\users\\pedro\\desktop\\solutioncrud\\proyectocrud.aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3409EB83-61B9-4784-9210-2788B1A77C84}|ProyectoCrud.AplicacionWeb\\ProyectoCrud.AplicacionWeb.csproj|solutionrelative:proyectocrud.aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16865868-3F56-449D-86BC-758D532C7A27}|ProyectoCrud.DAL\\ProyectoCrud.DAL.csproj|c:\\users\\pedro\\desktop\\solutioncrud\\proyectocrud.dal\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16865868-3F56-449D-86BC-758D532C7A27}|ProyectoCrud.DAL\\ProyectoCrud.DAL.csproj|solutionrelative:proyectocrud.dal\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3409EB83-61B9-4784-9210-2788B1A77C84}|ProyectoCrud.AplicacionWeb\\ProyectoCrud.AplicacionWeb.csproj|c:\\users\\pedro\\desktop\\solutioncrud\\proyectocrud.aplicacionweb\\models\\viewmodels\\vmcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3409EB83-61B9-4784-9210-2788B1A77C84}|ProyectoCrud.AplicacionWeb\\ProyectoCrud.AplicacionWeb.csproj|solutionrelative:proyectocrud.aplicacionweb\\models\\viewmodels\\vmcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16865868-3F56-449D-86BC-758D532C7A27}|ProyectoCrud.DAL\\ProyectoCrud.DAL.csproj|c:\\users\\pedro\\desktop\\solutioncrud\\proyectocrud.dal\\repositories\\contactorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16865868-3F56-449D-86BC-758D532C7A27}|ProyectoCrud.DAL\\ProyectoCrud.DAL.csproj|solutionrelative:proyectocrud.dal\\repositories\\contactorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60DF63BC-C869-42FE-983E-7CBB392BEF48}|ProyectoCrud.Models\\ProyectoCrud.Models.csproj|c:\\users\\pedro\\desktop\\solutioncrud\\proyectocrud.models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60DF63BC-C869-42FE-983E-7CBB392BEF48}|ProyectoCrud.Models\\ProyectoCrud.Models.csproj|solutionrelative:proyectocrud.models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3409EB83-61B9-4784-9210-2788B1A77C84}|ProyectoCrud.AplicacionWeb\\ProyectoCrud.AplicacionWeb.csproj|c:\\users\\pedro\\desktop\\solutioncrud\\proyectocrud.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3409EB83-61B9-4784-9210-2788B1A77C84}|ProyectoCrud.AplicacionWeb\\ProyectoCrud.AplicacionWeb.csproj|solutionrelative:proyectocrud.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContactoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.DAL\\Repositories\\ContactoRepository.cs",
-              "RelativeDocumentMoniker": "ProyectoCrud.DAL\\Repositories\\ContactoRepository.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.DAL\\Repositories\\ContactoRepository.cs",
-              "RelativeToolTip": "ProyectoCrud.DAL\\Repositories\\ContactoRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAewDAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T10:05:43.148Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCrud.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoCrud.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAJoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T08:21:53.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContactoService.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.BLL\\Service\\ContactoService.cs",
-              "RelativeDocumentMoniker": "ProyectoCrud.BLL\\Service\\ContactoService.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.BLL\\Service\\ContactoService.cs",
-              "RelativeToolTip": "ProyectoCrud.BLL\\Service\\ContactoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "ProyectoCrud.Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.Models\\Contacto.cs",
+              "RelativeToolTip": "ProyectoCrud.Models\\Contacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T09:52:05.846Z",
+              "WhenOpened": "2024-11-28T07:59:54.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.DAL\\Repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "ProyectoCrud.DAL\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.DAL\\Repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "ProyectoCrud.DAL\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAATAAAAAAAAAA==",
+              "Title": "VMContacto.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.AplicacionWeb\\Models\\ViewModels\\VMContacto.cs",
+              "RelativeDocumentMoniker": "ProyectoCrud.AplicacionWeb\\Models\\ViewModels\\VMContacto.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.AplicacionWeb\\Models\\ViewModels\\VMContacto.cs",
+              "RelativeToolTip": "ProyectoCrud.AplicacionWeb\\Models\\ViewModels\\VMContacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T09:48:25.451Z",
+              "WhenOpened": "2024-11-28T07:59:44.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IContactoService.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.BLL\\Service\\IContactoService.cs",
-              "RelativeDocumentMoniker": "ProyectoCrud.BLL\\Service\\IContactoService.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.BLL\\Service\\IContactoService.cs",
-              "RelativeToolTip": "ProyectoCrud.BLL\\Service\\IContactoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAA9AAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.AplicacionWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoCrud.AplicacionWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.AplicacionWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoCrud.AplicacionWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwE8AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T09:47:57.144Z",
+              "WhenOpened": "2024-11-28T07:55:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.AplicacionWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoCrud.AplicacionWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\SolutionCrud\\ProyectoCrud.AplicacionWeb\\Program.cs",
+              "RelativeToolTip": "ProyectoCrud.AplicacionWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:50:32.583Z",
               "EditorCaption": ""
             }
           ]

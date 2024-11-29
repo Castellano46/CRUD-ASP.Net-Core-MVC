@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using ProyectoCrud.BLL.Service;
 using ProyectoCrud.DAL.DataContext;
+using ProyectoCrud.DAL.Repositories;
+using ProyectoCrud.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +13,9 @@ builder.Services.AddDbContext<DbpruebasContext>(opciones =>
     opciones.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSQL"));
 
 });
+
+builder.Services.AddScoped<IGenericRepository<Contacto>, ContactoRepository>();
+builder.Services.AddScoped<IContactoService, ContactoService>();
 
 var app = builder.Build();
 
